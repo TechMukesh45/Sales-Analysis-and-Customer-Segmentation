@@ -1,1 +1,2 @@
-# Sales-Analysis-and-Customer-Segmentation
+# Sales-Analysis-and-Customer-Segmentation                       
+This project focuses on the analysis of sales data to gain insights into customer behavior and preferences. The primary objectives include understanding sales trends, identifying key performance indicators, and segmenting customers based on their purchasing patterns. The project aims to provide actionable strategies for optimizing marketing efforts and enhancing customer satisfaction.
